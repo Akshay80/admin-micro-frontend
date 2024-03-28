@@ -1,8 +1,11 @@
-import React from 'react'
-import ProductReviews from './ProductReviews'
+/* eslint-disable */
+import React, { Suspense } from "react";
+import ProductReviews from "./ProductReviews";
 
 export default function page() {
   return (
-    <ProductReviews/>
-  )
+    <Suspense>
+      <ProductReviews />
+    </Suspense>
+  );
 }
