@@ -24,8 +24,8 @@ const awsmobile: any = {
             "profile",
             "aws.cognito.signin.user.admin"
         ],
-        "redirectSignIn": "worldtradex://,https://buy.worldtradex.com/,http://localhost:4200/",
-        "redirectSignOut": "worldtradex://,https://buy.worldtradex.com/,http://localhost:4200/",
+        "redirectSignIn": "worldtradex://,https://buy.worldtradex.com/,https://admin-micro-frontend.vercel.app/",
+        "redirectSignOut": "worldtradex://,https://buy.worldtradex.com/,https://admin-micro-frontend.vercel.app/",
         "responseType": "code"
     },
     "federationTarget": "COGNITO_USER_POOLS",
