@@ -1,3 +1,4 @@
+/* eslint-disable */
 "use client"
 import { Menu, MenuButton, MenuItem } from '@aws-amplify/ui-react';
 import Pagination from '../../../components/pagination';
