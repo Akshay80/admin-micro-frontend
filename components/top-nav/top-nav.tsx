@@ -89,7 +89,7 @@ export function TopNav(props: TopNavProps) {
       setImage(res?.data?.searchUsers?.items[0]?.photo)
     }
     catch (e) {
-      console.log(e)
+      console.log(e);
     }
   }
   return (
