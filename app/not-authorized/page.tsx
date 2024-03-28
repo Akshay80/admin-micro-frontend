@@ -1,4 +1,4 @@
-import PublicHeader from 'apps/admin/components/public-header/PublicHeader'
+import PublicHeader from '../../components/public-header/PublicHeader'
 import React from 'react'
 
 export default function page() {
