@@ -1,0 +1,102 @@
+[
+  {
+    "id": "1",
+    "image": "https://freshcart.codescandy.com/assets/images/products/product-img-1.jpg",
+    "productName": "Coffee",
+    "category": "10",
+    "status": "Active",
+    "price": "5",
+    "createdAt": "24 Nov 2022",
+    "statusClass": "badge bg-light-primary text-dark-primary"
+  },
+  {
+    "id": "2",
+    "image": "https://freshcart.codescandy.com/assets/images/products/product-img-2.jpg",
+    "productName": "Tea",
+    "category": "8",
+    "status": "Active",
+    "price": "4",
+    "createdAt": "25 Nov 2022",
+    "statusClass": "badge bg-light-primary text-dark-primary"
+  },
+  {
+    "id": "3",
+    "image": "https://freshcart.codescandy.com/assets/images/products/product-img-1.jpg",
+    "productName": "Juice",
+    "category": "12",
+    "status": "Active",
+    "price": "3",
+    "createdAt": "26 Nov 2022",
+    "statusClass": "badge bg-light-primary text-dark-primary"
+  },
+  {
+    "id": "4",
+    "image": "https://freshcart.codescandy.com/assets/images/products/product-img-2.jpg",
+    "productName": "Soda",
+    "category": "7",
+    "status": "Inactive",
+    "price": "2",
+    "createdAt": "27 Nov 2022",
+    "statusClass": "badge bg-light-primary text-dark-danger"
+  },
+  {
+    "id": "5",
+    "image": "https://freshcart.codescandy.com/assets/images/products/product-img-3.jpg",
+    "productName": "Water",
+    "category": "15",
+    "status": "Active",
+    "price": "1",
+    "createdAt": "28 Nov 2022",
+    "statusClass": "badge bg-light-primary text-dark-primary"
+  },
+  {
+    "id": "6",
+    "image": "https://freshcart.codescandy.com/assets/images/products/product-img-2.jpg",
+    "productName": "Energy Drink",
+    "category": "8",
+    "status": "Inactive",
+    "price": "3",
+    "createdAt": "29 Nov 2022",
+    "statusClass": "badge bg-light-primary text-dark-danger"
+  },
+  {
+    "id": "7",
+    "image": "https://freshcart.codescandy.com/assets/images/products/product-img-4.jpg",
+    "productName": "Milk",
+    "category": "12",
+    "status": "Active",
+    "price": "2",
+    "createdAt": "30 Nov 2022",
+    "statusClass": "badge bg-light-primary text-dark-primary"
+  },
+  {
+    "id": "8",
+    "image": "https://freshcart.codescandy.com/assets/images/products/product-img-2.jpg",
+    "productName": "Smoothie",
+    "category": "6",
+    "status": "Active",
+    "price": "4",
+    "createdAt": "1 Dec 2022",
+    "statusClass": "badge bg-light-primary text-dark-primary"
+  },
+  {
+    "id": "9",
+    "image": "https://freshcart.codescandy.com/assets/images/products/product-img-5.jpg",
+    "productName": "Lemonade",
+    "category": "9",
+    "status": "Active",
+    "price": "3",
+    "createdAt": "2 Dec 2022",
+    "statusClass": "badge bg-light-primary text-dark-primary"
+  },
+  {
+    "id": "10",
+    "image": "https://freshcart.codescandy.com/assets/images/products/product-img-2.jpg",
+    "productName": "Iced Tea",
+    "category": "5",
+    "status": "Active",
+    "price": "2",
+    "createdAt": "3 Dec 2022",
+    "statusClass": "badge bg-light-primary text-dark-primary"
+  }
+]

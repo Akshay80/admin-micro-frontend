@@ -1,0 +1,57 @@
+[
+    {
+      "name": "Dashboard",
+      "icon": "house",
+      "href": "/app/dashboard"
+    },
+    {
+      "name": "Logistics",
+      "icon": "truck-front",
+      "href": "/app/logistics"
+    },
+    {
+      "name": "Categories",
+      "icon": "basket2",
+      "href": "/app/categories"
+    },
+    {
+      "name": "Subcategories",
+      "icon": "basket2-fill",
+      "href": "/app/subcategories"
+    },
+    {
+      "name": "Products",
+      "icon": "cart",
+      "href": "/app/products"
+    },
+    {
+      "name": "Product Reviews",
+      "icon": "star",
+      "href": "/app/product-reviews"
+    },
+    {
+      "name": "Sellers",
+      "icon": "person-check",
+      "href": "/app/sellers"
+    },
+    {
+      "name": "Orders",
+      "icon": "bookmark-check-fill",
+      "href": "/app/orders"
+    },
+    {
+      "name": "Transactions",
+      "icon": "cash-stack",
+      "href": "/app/transactions"
+    },
+    {
+      "name": "Users",
+      "icon": "people-fill",
+      "href": "/app/users"
+    },
+    {
+      "name": "New Registered",
+      "icon": "people-fill",
+      "href": "/app/new-seller-users"
+    }
+  ]

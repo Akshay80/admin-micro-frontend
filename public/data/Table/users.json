@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1",
+    "Name": "Batman",
+    "Email": "BruceWayne@dc.com",
+    "Role": "OWNER",
+    "createdAt": "24 Nov 2022"
+  },
+  {
+    "id": "2",
+    "Name": "Superman",
+    "Email": "Clark@dc.com",
+    "Role": "EDITOR",
+    "createdAt": "24 Nov 2022"
+  },
+  {
+    "id": "3",
+    "Name": "Wonder Women",
+    "Email": "Diana@dc.com",
+    "Role": "VIEWER",
+    "createdAt": "24 Nov 2022"
+  },
+  {
+    "id": "4",
+    "Name": "Flash",
+    "Email": "Barry@dc.com",
+    "Role": "EDITOR",
+    "createdAt": "25 Nov 2022"
+  },
+  {
+    "id": "5",
+    "Name": "Aquaman",
+    "Email": "Arthur@dc.com",
+    "Role": "VIEWER",
+    "createdAt": "25 Nov 2022"
+  },
+  {
+    "id": "6",
+    "Name": "Green Lantern",
+    "Email": "Hal@dc.com",
+    "Role": "OWNER",
+    "createdAt": "25 Nov 2022"
+  },
+  {
+    "id": "7",
+    "Name": "Cyborg",
+    "Email": "Victor@dc.com",
+    "Role": "EDITOR",
+    "createdAt": "25 Nov 2022"
+  },
+  {
+    "id": "8",
+    "Name": "Martian Manhunter",
+    "Email": "J'onn@dc.com",
+    "Role": "VIEWER",
+    "createdAt": "25 Nov 2022"
+  },
+  {
+    "id": "9",
+    "Name": "Hawkgirl",
+    "Email": "Shayera@dc.com",
+    "Role": "VIEWER",
+    "createdAt": "25 Nov 2022"
+  },
+  {
+    "id": "10",
+    "Name": "Green Arrow",
+    "Email": "Oliver@dc.com",
+    "Role": "EDITOR",
+    "createdAt": "25 Nov 2022"
+  }
+]

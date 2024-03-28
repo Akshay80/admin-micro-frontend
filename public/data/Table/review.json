@@ -1,0 +1,112 @@
+[
+    {
+      "product": "Haldiram's Sev Bhujia",
+      "category": "Rice",
+      "comment": "Nice & fresh oranges with value for money..",
+      "rating": 4,
+      "date": "23 Nov, 2022",
+      "status": "active",
+    "statusClass": "badge bg-light-primary text-dark-primary"
+
+    },
+    {
+      "product": "NutriChoice Digestive",
+      "category": "Rice",
+      "comment": "Nice product 👌 quality 👌...",
+      "rating": 4,
+      "date": "23 Nov, 2022",
+      "status": "active",
+    "statusClass": "badge bg-light-primary text-dark-primary"
+
+
+    },
+    {
+      "product": "Cadbury 5 Star Chocolate",
+      "category": "Dairy",
+      "comment": "Good quality product delivered...",
+      "rating": 5,
+      "date": "23 Nov, 2022",
+      "status": "",
+    "statusClass": "badge bg-light-primary text-dark-primary"
+
+
+    },
+    {
+      "product": "Onion Flavour Potato",
+      "category": "Vegetables",
+      "comment": "Excellent Quality by an Indian company..",
+      "rating": 5,
+      "date": "23 Nov, 2022",
+      "status": "active",
+    "statusClass": "badge bg-light-primary text-dark-primary"
+
+
+    },
+    {
+      "product": "Salted Instant Popcorn",
+      "category": "Cereals",
+      "comment": "Very expensive. Cheaper at local stores...",
+      "rating": 4,
+      "date": "23 Nov, 2022",
+      "status": "",
+    "statusClass": "badge bg-light-primary text-dark-primary"
+
+
+    },
+    {
+      "product": "Blueberry Greek Yogurt",
+      "category": "Dairy",
+      "comment": "Etiam in felis eget eros dictum",
+      "rating": 5,
+      "date": "23 Nov, 2022",
+      "status": "",
+    "statusClass": "badge bg-light-primary text-dark-primary"
+
+
+    },
+    {
+      "product": "Britannia Cheese Slices",
+      "category": "Dairy",
+      "comment": "Is good but had to wait for a late delivery.",
+      "rating": 4,
+      "date": "23 Nov, 2022",
+      "status": "active",
+    "statusClass": "badge bg-light-primary text-dark-primary"
+
+
+    },
+    {
+      "product": "Kellogg's Original Cereals",
+      "category": "Cereals",
+      "comment": "Very expensive. Cheaper at local stores",
+      "rating": 5,
+      "date": "23 Nov, 2022",
+      "status": "active",
+    "statusClass": "badge bg-light-primary text-dark-primary"
+
+
+    },
+    {
+      "product": "Slurrp Millet Chocolate",
+      "category": "Sweets",
+      "comment": "My toddler loved the flavor and enjoys...",
+      "rating": 3,
+      "date": "23 Nov, 2022",
+      "status": "",
+    "statusClass": "badge bg-light-primary text-dark-primary"
+
+
+    },
+    {
+      "product": "Amul Butter - 500 g",
+      "category": "Dairy",
+      "comment": "Good Product but packaging needs...",
+      "rating": 3,
+      "date": "23 Nov, 2022",
+      "status": "active",
+    "statusClass": "badge bg-light-primary text-dark-primary"
+
+
+    }
+  ]
+  

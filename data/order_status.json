@@ -1,0 +1,78 @@
+{
+    "data": [
+      {
+        "orderStatus": "OPEN",
+        "search_value":"open",
+        "order_css": "badge bg-light-warning text-dark"
+      },
+      {
+        "orderStatus": "READY_FOR_PICKUP",
+        "search_value":"ready for pickup",
+        "order_css": "badge bg-gray-200 text-dark"
+      },
+      {
+        "orderStatus": "IN_TRANSIT",
+        "search_value":"in transit",
+        "order_css": "badge bg-gray-200 text-dark"
+      },
+      {
+        "orderStatus": "DELIVERED",
+        "search_value":"delivered",
+        "order_css": "badge bg-light-success text-dark"
+      },
+      {
+        "orderStatus": "RETURN_REQUESTED",
+        "search_value":"Return Requested",
+        "order_css": "badge bg-light-info text-dark"
+      },
+      {
+        "orderStatus": "RETURN_ACCEPTED",
+        "search_value":"Return Accepted",
+        "order_css": "badge bg-light-info text-dark"
+      },
+      {
+        "orderStatus": "RETURN_REJECTED",
+        "search_value":"Return Rejected",
+        "order_css": "badge bg-light-info text-dark"
+      },
+      {
+        "orderStatus": "CLOSED",
+        "search_value":"closed",
+        "order_css": "badge bg-light-danger text-dark"
+      },
+      {
+        "orderStatus": "CANCELLED",
+        "search_value":"cancelled",
+        "order_css": "badge bg-light-danger text-dark"
+      },
+      {
+        "orderStatus": "RETURNED",
+        "search_value":"returned",
+        "order_css": "badge bg-light-info text-dark"
+      },
+      {
+        "options": [
+          "All",
+          "Open",
+          "Ready for pickup",
+          "In transit",
+          "Delivered",
+          "Return Requested",
+          "Return Accepted",
+          "Return Rejected",
+          "Closed",
+          "Cancelled",
+          "Returned"
+        ]
+      },
+      {
+        "tableColumn": [
+          "Order Number",
+          "Buyer Name", 
+          "Status", 
+          "Amount", 
+          "Created At"
+        ]
+      }
+    ]
+  }

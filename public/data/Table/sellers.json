@@ -1,0 +1,102 @@
+[
+  {
+    "id": "1",
+    "image": "https://freshcart.codescandy.com/assets/images/avatar/avatar-1.jpg",
+    "productName": "sellername@seller.com",
+    "category": "987654321",
+    "status": "Active",
+    "price": "Random Seller name",
+    "createdAt": "24 Nov 2022",
+    "statusClass": "badge bg-light-primary text-dark-primary"
+  },
+  {
+    "id": "2",
+    "image": "https://freshcart.codescandy.com/assets/images/avatar/avatar-3.jpg",
+    "productName": "sellername2@seller.com",
+    "category": "987654322",
+    "status": "Active",
+    "price": "Random Seller name 2",
+    "createdAt": "25 Nov 2022",
+    "statusClass": "badge bg-light-primary text-dark-primary"
+  },
+  {
+    "id": "3",
+    "image": "https://freshcart.codescandy.com/assets/images/avatar/avatar-2.jpg",
+    "productName": "sellername3@seller.com",
+    "category": "987654323",
+    "status": "Active",
+    "price": "Random Seller name 3",
+    "createdAt": "26 Nov 2022",
+    "statusClass": "badge bg-light-primary text-dark-primary"
+  },
+  {
+    "id": "4",
+    "image": "https://freshcart.codescandy.com/assets/images/avatar/avatar-4.jpg",
+    "productName": "sellername4@seller.com",
+    "category": "987654324",
+    "status": "Active",
+    "price": "Random Seller name 4",
+    "createdAt": "27 Nov 2022",
+    "statusClass": "badge bg-light-primary text-dark-primary"
+  },
+  {
+    "id": "5",
+    "image": "https://freshcart.codescandy.com/assets/images/avatar/avatar-1.jpg",
+    "productName": "sellername5@seller.com",
+    "category": "987654325",
+    "status": "Active",
+    "price": "Random Seller name 5",
+    "createdAt": "28 Nov 2022",
+    "statusClass": "badge bg-light-primary text-dark-primary"
+  },
+  {
+    "id": "6",
+    "image": "https://freshcart.codescandy.com/assets/images/avatar/avatar-5.jpg",
+    "productName": "sellername6@seller.com",
+    "category": "987654326",
+    "status": "Active",
+    "price": "Random Seller name 6",
+    "createdAt": "29 Nov 2022",
+    "statusClass": "badge bg-light-primary text-dark-primary"
+  },
+  {
+    "id": "7",
+    "image": "https://freshcart.codescandy.com/assets/images/avatar/avatar-6.jpg",
+    "productName": "sellername7@seller.com",
+    "category": "987654327",
+    "status": "Active",
+    "price": "Random Seller name 7",
+    "createdAt": "30 Nov 2022",
+    "statusClass": "badge bg-light-primary text-dark-primary"
+  },
+  {
+    "id": "8",
+    "image": "https://freshcart.codescandy.com/assets/images/avatar/avatar-7.jpg",
+    "productName": "sellername8@seller.com",
+    "category": "987654328",
+    "status": "Active",
+    "price": "Random Seller name 8",
+    "createdAt": "01 Dec 2022",
+    "statusClass": "badge bg-light-primary text-dark-primary"
+  },
+  {
+    "id": "9",
+    "image": "https://freshcart.codescandy.com/assets/images/avatar/avatar-8.jpg",
+    "productName": "sellername9@seller.com",
+    "category": "987654329",
+    "status": "Active",
+    "price": "Random Seller name 9",
+    "createdAt": "02 Dec 2022",
+    "statusClass": "badge bg-light-primary text-dark-primary"
+  },
+  {
+    "id": "10",
+    "image": "https://freshcart.codescandy.com/assets/images/avatar/avatar-9.jpg",
+    "productName": "sellername10@seller.com",
+    "category": "987654330",
+    "status": "Active",
+    "price": "Random Seller name 10",
+    "createdAt": "03 Dec 2022",
+    "statusClass": "badge bg-light-primary text-dark-primary"
+  }
+]

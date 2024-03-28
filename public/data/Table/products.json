@@ -1,0 +1,102 @@
+[
+  {
+    "id": "1",
+    "image": "https://freshcart.codescandy.com/assets/images/products/product-img-2.jpg",
+    "productName": "Haldiram's Sev Bhujia",
+    "category": "Snack & Munchies",
+    "status": "Active",
+    "price": "$18.00",
+    "createdAt": "24 Nov 2022",
+    "statusClass": "badge bg-light-primary text-dark-primary"
+  },
+  {
+    "id": "2",
+    "image": "https://freshcart.codescandy.com/assets/images/products/product-img-1.jpg",
+    "productName": "NutriChoice Digestive",
+    "category": "Bakery & Biscuits",
+    "status": "Active",
+    "price": "$24.00",
+    "createdAt": "20 Nov 2022",
+    "statusClass": "badge bg-light-primary text-dark-primary"
+  },
+  {
+    "id": "3",
+    "image": "https://freshcart.codescandy.com/assets/images/products/product-img-3.jpg",
+    "productName": "Whatever it is",
+    "category": "Bakery & Biscuits",
+    "status": "On hold",
+    "price": "$24.00",
+    "createdAt": "20 Nov 2022",
+    "statusClass": "badge bg-light-warning text-dark-warning"
+  },
+  {
+    "id": "4",
+    "image": "https://freshcart.codescandy.com/assets/images/products/product-img-4.jpg",
+    "productName": "Whatever it is",
+    "category": "Bakery & Biscuits",
+    "status": "Deactive",
+    "price": "$24.00",
+    "createdAt": "20 Nov 2022",
+    "statusClass": "badge bg-light-danger text-dark-danger"
+  },
+  {
+    "id": "5",
+    "image": "https://freshcart.codescandy.com/assets/images/products/product-img-5.jpg",
+    "productName": "Lays Classic",
+    "category": "Snack & Munchies",
+    "status": "On hold",
+    "price": "$12.00",
+    "createdAt": "15 Dec 2022",
+    "statusClass": "badge bg-light-warning text-dark-warning"
+  },
+  {
+    "id": "6",
+    "image": "https://freshcart.codescandy.com/assets/images/products/product-img-6.jpg",
+    "productName": "Oreo Cookies",
+    "category": "Bakery & Biscuits",
+    "status": "Active",
+    "price": "$10.00",
+    "createdAt": "08 Jan 2023",
+    "statusClass": "badge bg-light-primary text-dark-primary"
+  },
+  {
+    "id": "7",
+    "image": "https://freshcart.codescandy.com/assets/images/products/product-img-7.jpg",
+    "productName": "Pringles BBQ",
+    "category": "Snack & Munchies",
+    "status": "Deactive",
+    "price": "$16.00",
+    "createdAt": "12 Jan 2023",
+    "statusClass": "badge bg-light-danger text-dark-danger"
+  },
+  {
+    "id": "8",
+    "image": "https://freshcart.codescandy.com/assets/images/products/product-img-8.jpg",
+    "productName": "Cadbury Dairy Milk",
+    "category": "Chocolates",
+    "status": "On hold",
+    "price": "$5.00",
+    "createdAt": "18 Jan 2023",
+    "statusClass": "badge bg-light-warning text-dark-warning"
+  },
+  {
+    "id": "9",
+    "image": "https://freshcart.codescandy.com/assets/images/products/product-img-9.jpg",
+    "productName": "Lay's Sour Cream",
+    "category": "Snack & Munchies",
+    "status": "Active",
+    "price": "$12.00",
+    "createdAt": "25 Jan 2023",
+    "statusClass": "badge bg-light-primary text-dark-primary"
+  },
+  {
+    "id": "10",
+    "image": "https://freshcart.codescandy.com/assets/images/products/product-img-1.jpg",
+    "productName": "KitKat Chocolate",
+    "category": "Chocolates",
+    "status": "Deactive",
+    "price": "$6.00",
+    "createdAt": "02 Feb 2023",
+    "statusClass": "badge bg-light-danger text-dark-danger"
+  }
+]

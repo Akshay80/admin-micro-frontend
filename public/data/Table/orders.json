@@ -1,0 +1,92 @@
+[
+    {
+      "id": "2",
+      "image": "https://example.com/product-img-2.jpg",
+      "productName": "789012",
+      "category": "Clark Kent",
+      "status": "Active",
+      "price": "$20.00",
+      "createdAt": "25 Nov 2022",
+      "statusClass": "badge bg-light-primary text-dark-primary"
+    },
+    {
+      "id": "3",
+      "image": "https://example.com/product-img-3.jpg",
+      "productName": "345678",
+      "category": "Diana Prince",
+      "status": "Active",
+      "price": "$15.00",
+      "createdAt": "26 Nov 2022",
+      "statusClass": "badge bg-light-primary text-dark-primary"
+    },
+    {
+      "id": "4",
+      "image": "https://example.com/product-img-4.jpg",
+      "productName": "901234",
+      "category": "Arthur Curry",
+      "status": "Active",
+      "price": "$22.00",
+      "createdAt": "27 Nov 2022",
+      "statusClass": "badge bg-light-primary text-dark-primary"
+    },
+    {
+      "id": "5",
+      "image": "https://example.com/product-img-5.jpg",
+      "productName": "567890",
+      "category": "Barry Allen",
+      "status": "Active",
+      "price": "$19.00",
+      "createdAt": "28 Nov 2022",
+      "statusClass": "badge bg-light-primary text-dark-primary"
+    },
+    {
+      "id": "6",
+      "image": "https://example.com/product-img-6.jpg",
+      "productName": "234567",
+      "category": "Hal Jordan",
+      "status": "Active",
+      "price": "$25.00",
+      "createdAt": "29 Nov 2022",
+      "statusClass": "badge bg-light-primary text-dark-primary"
+    },
+    {
+      "id": "7",
+      "image": "https://example.com/product-img-7.jpg",
+      "productName": "890123",
+      "category": "Selina Kyle",
+      "status": "Active",
+      "price": "$30.00",
+      "createdAt": "30 Nov 2022",
+      "statusClass": "badge bg-light-primary text-dark-primary"
+    },
+    {
+      "id": "8",
+      "image": "https://example.com/product-img-8.jpg",
+      "productName": "456789",
+      "category": "Barbara Gordon",
+      "status": "Active",
+      "price": "$28.00",
+      "createdAt": "01 Dec 2022",
+      "statusClass": "badge bg-light-primary text-dark-primary"
+    },
+    {
+      "id": "9",
+      "image": "https://example.com/product-img-9.jpg",
+      "productName": "012345",
+      "category": "Dick Grayson",
+      "status": "Active",
+      "price": "$24.00",
+      "createdAt": "02 Dec 2022",
+      "statusClass": "badge bg-light-primary text-dark-primary"
+    },
+    {
+      "id": "10",
+      "image": "https://example.com/product-img-10.jpg",
+      "productName": "678901",
+      "category": "Wally West",
+      "status": "Active",
+      "price": "$21.00",
+      "createdAt": "03 Dec 2022",
+      "statusClass": "badge bg-light-primary text-dark-primary"
+    }
+  ]

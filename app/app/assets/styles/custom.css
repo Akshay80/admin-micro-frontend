@@ -1,0 +1,105 @@
+.scene {
+    display: inline-block;
+    width: 50%;
+    height: 320px;
+    margin: 0px 0;
+    perspective: 600px;
+  }
+.logistics_scene {
+    display: inline-block;
+    width: 100%;
+    height: 350px;
+    margin: 0px 0;
+    perspective: 600px;
+  }
+  
+  .card {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    cursor: pointer;
+    transform-style: preserve-3d;
+    transform-origin: center right;
+    transition: transform 1s;
+  }
+  
+  .card.is-flipped {
+    transform: translateX(-100%) rotateY(-180deg);
+  }
+  
+  .card__face {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    backface-visibility: hidden;
+    border: 1px solid goldenrod;
+  }
+  
+  .card__face_front {
+    background-image: url('https://wtx-cdn.s3.amazonaws.com/img/front.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  
+  .card__face_back {
+    transform: rotateY(180deg);
+    background-image: url('https://wtx-cdn.s3.amazonaws.com/img/back.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+
+  .name-one{
+    top: 50%;
+    right: 50%;
+    transform: translate(51%, -50%);
+    width: 100%;
+  }
+
+  .name-two{
+    bottom: 0;
+  }
+
+  .back-one{
+    top: 17%;
+  }
+
+  .back-two{
+    bottom: 55px;
+    left: 14px;
+  }
+
+  .text-3d{
+    color: #D9B570;
+    letter-spacing: .15em;
+    text-shadow: 
+      -1px -1px 1px #efede3, 
+      0px 1px 0 #2e2e2e, 
+  }
+
+/* slider */
+  .swiper {
+    width: 100%;
+    height: 100%;
+  }
+  
+  .swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+  
+    /* Center slide text vertically */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  

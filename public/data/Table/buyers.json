@@ -1,0 +1,102 @@
+[
+    {
+      "id": "1",
+      "image": "https://freshcart.codescandy.com/assets/images/avatar/avatar-1.jpg",
+      "productName": "Buyername@Buyer.com",
+      "category": "987654321",
+      "status": "Active",
+      "price": "Random Buyer name",
+      "createdAt": "24 Nov 2022",
+      "statusClass": "badge bg-light-primary text-dark-primary"
+    },
+    {
+      "id": "2",
+      "image": "https://freshcart.codescandy.com/assets/images/avatar/avatar-3.jpg",
+      "productName": "Buyername2@Buyer.com",
+      "category": "987654322",
+      "status": "Active",
+      "price": "Random Buyer name 2",
+      "createdAt": "25 Nov 2022",
+      "statusClass": "badge bg-light-primary text-dark-primary"
+    },
+    {
+      "id": "3",
+      "image": "https://freshcart.codescandy.com/assets/images/avatar/avatar-2.jpg",
+      "productName": "Buyername3@Buyer.com",
+      "category": "987654323",
+      "status": "Active",
+      "price": "Random Buyer name 3",
+      "createdAt": "26 Nov 2022",
+      "statusClass": "badge bg-light-primary text-dark-primary"
+    },
+    {
+      "id": "4",
+      "image": "https://freshcart.codescandy.com/assets/images/avatar/avatar-4.jpg",
+      "productName": "Buyername4@Buyer.com",
+      "category": "987654324",
+      "status": "Active",
+      "price": "Random Buyer name 4",
+      "createdAt": "27 Nov 2022",
+      "statusClass": "badge bg-light-primary text-dark-primary"
+    },
+    {
+      "id": "5",
+      "image": "https://freshcart.codescandy.com/assets/images/avatar/avatar-1.jpg",
+      "productName": "Buyername5@Buyer.com",
+      "category": "987654325",
+      "status": "Active",
+      "price": "Random Buyer name 5",
+      "createdAt": "28 Nov 2022",
+      "statusClass": "badge bg-light-primary text-dark-primary"
+    },
+    {
+      "id": "6",
+      "image": "https://freshcart.codescandy.com/assets/images/avatar/avatar-5.jpg",
+      "productName": "Buyername6@Buyer.com",
+      "category": "987654326",
+      "status": "Active",
+      "price": "Random Buyer name 6",
+      "createdAt": "29 Nov 2022",
+      "statusClass": "badge bg-light-primary text-dark-primary"
+    },
+    {
+      "id": "7",
+      "image": "https://freshcart.codescandy.com/assets/images/avatar/avatar-6.jpg",
+      "productName": "Buyername7@Buyer.com",
+      "category": "987654327",
+      "status": "Active",
+      "price": "Random Buyer name 7",
+      "createdAt": "30 Nov 2022",
+      "statusClass": "badge bg-light-primary text-dark-primary"
+    },
+    {
+      "id": "8",
+      "image": "https://freshcart.codescandy.com/assets/images/avatar/avatar-7.jpg",
+      "productName": "Buyername8@Buyer.com",
+      "category": "987654328",
+      "status": "Active",
+      "price": "Random Buyer name 8",
+      "createdAt": "01 Dec 2022",
+      "statusClass": "badge bg-light-primary text-dark-primary"
+    },
+    {
+      "id": "9",
+      "image": "https://freshcart.codescandy.com/assets/images/avatar/avatar-8.jpg",
+      "productName": "Buyername9@Buyer.com",
+      "category": "987654329",
+      "status": "Active",
+      "price": "Random Buyer name 9",
+      "createdAt": "02 Dec 2022",
+      "statusClass": "badge bg-light-primary text-dark-primary"
+    },
+    {
+      "id": "10",
+      "image": "https://freshcart.codescandy.com/assets/images/avatar/avatar-9.jpg",
+      "productName": "Buyername10@Buyer.com",
+      "category": "987654330",
+      "status": "Active",
+      "price": "Random Buyer name 10",
+      "createdAt": "03 Dec 2022",
+      "statusClass": "badge bg-light-primary text-dark-primary"
+    }
+  ]

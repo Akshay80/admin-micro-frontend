@@ -1,0 +1,83 @@
+[
+  {
+    "Request_ID": "2",
+    "Request_Type": "Return",
+    "Order_Date": "25 Nov 2022",
+    "Order_Amount": "$20.00",
+    "Discount_Amount": "$0.00",
+    "Request_Status": "Active",
+    "statusClass": "badge bg-light-primary text-dark-primary"
+  },
+  {
+    "Request_ID": "3",
+    "Request_Type": "Refund",
+    "Order_Date": "26 Nov 2022",
+    "Order_Amount": "$15.00",
+    "Discount_Amount": "$0.00",
+    "Request_Status": "Active",
+    "statusClass": "badge bg-light-primary text-dark-primary"
+  },
+  {
+    "Request_ID": "4",
+    "Request_Type": "Refund",
+    "Order_Date": "27 Nov 2022",
+    "Order_Amount": "$22.00",
+    "Discount_Amount": "$0.00",
+    "Request_Status": "Active",
+    "statusClass": "badge bg-light-primary text-dark-primary"
+  },
+  {
+    "Request_ID": "5",
+    "Request_Type": "Refund",
+    "Order_Date": "28 Nov 2022",
+    "Order_Amount": "$19.00",
+    "Discount_Amount": "$0.00",
+    "Request_Status": "Active",
+    "statusClass": "badge bg-light-primary text-dark-primary"
+  },
+  {
+    "Request_ID": "6",
+    "Request_Type": "Refund",
+    "Order_Date": "29 Nov 2022",
+    "Order_Amount": "$25.00",
+    "Discount_Amount": "$0.00",
+    "Request_Status": "Active",
+    "statusClass": "badge bg-light-primary text-dark-primary"
+  },
+  {
+    "Request_ID": "7",
+    "Request_Type": "Return",
+    "Order_Date": "30 Nov 2022",
+    "Order_Amount": "$30.00",
+    "Discount_Amount": "$0.00",
+    "Request_Status": "Active",
+    "statusClass": "badge bg-light-primary text-dark-primary"
+  },
+  {
+    "Request_ID": "8",
+    "Request_Type": "Return",
+    "Order_Date": "01 Dec 2022",
+    "Order_Amount": "$28.00",
+    "Discount_Amount": "$0.00",
+    "Request_Status": "Active",
+    "statusClass": "badge bg-light-primary text-dark-primary"
+  },
+  {
+    "Request_ID": "9",
+    "Request_Type": "Return",
+    "Order_Date": "02 Dec 2022",
+    "Order_Amount": "$24.00",
+    "Discount_Amount": "$0.00",
+    "Request_Status": "Active",
+    "statusClass": "badge bg-light-primary text-dark-primary"
+  },
+  {
+    "Request_ID": "10",
+    "Request_Type": "Return",
+    "Order_Date": "03 Dec 2022",
+    "Order_Amount": "$21.00",
+    "Discount_Amount": "$0.00",
+    "Request_Status": "Active",
+    "statusClass": "badge bg-light-primary text-dark-primary"
+  }
+]
