@@ -1,4 +1,4 @@
-import { PAGE_TITLE } from '@wtx/helper';
+import { PAGE_TITLE } from '../../../libs/helper/src/index';
 import { Metadata } from 'next';
 import OnboardingControl from './onboarding-control';
 

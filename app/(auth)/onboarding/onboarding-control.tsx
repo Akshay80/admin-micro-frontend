@@ -1,5 +1,5 @@
 'use client'
-import { Spinner } from '@wtx/shared/ui'
+import Spinner from '../../../libs/shared/ui/src/components/spinner/spinner';
 import { API, Auth, Storage } from 'aws-amplify'
 import { useEffect, useState } from 'react'
 import { toast } from 'react-hot-toast'

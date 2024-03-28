@@ -1,7 +1,7 @@
 'use client';
 
 import { Authenticator } from '@aws-amplify/ui-react';
-import { Spinner } from '@wtx/shared/ui';
+import Spinner from '../../../libs/shared/ui/src/components/spinner/spinner';
 import { Auth } from 'aws-amplify';
 import { useEffect, useState } from 'react';
 
