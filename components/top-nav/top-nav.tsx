@@ -3,7 +3,7 @@
 "use client"
 import { API, Amplify, Auth, graphqlOperation } from "aws-amplify";
 import moment from "moment";
-import awsExports from '../../../../src/aws-exports';
+import awsExports from '@/aws-exports';
 import { useRouter } from "next/navigation";
 import { useEffect,useState } from "react";
 const searchUsers = /* GraphQL */ `

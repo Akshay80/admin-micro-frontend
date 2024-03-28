@@ -286,8 +286,8 @@ export default function OrderDetails({ params }: any) {
                           </div>
                           <div className="position-absolute name-two w-100">
                             <div className="px-3 d-flex justify-content-between">
-                              {orderItems?.map((item: any) => {
-                                return <div className=''>
+                              {orderItems?.map((item: any, index: number) => {
+                                return <div className='' key={index}>
                                   <p className='mb-0 text-start' style={{ fontSize: '14px' }}>QUANTITY: {item?.quantity}</p>
                                   <p className='text-start' style={{ fontSize: '14px' }}>Total: {orderCharges?.total}</p>
                                 </div>
